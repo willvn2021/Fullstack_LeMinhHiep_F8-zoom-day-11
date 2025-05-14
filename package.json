@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "scss": "sass scss:assets/css -w"
+    }
+}
